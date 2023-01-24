@@ -1,0 +1,8 @@
+
+
+# ignore ALL .readme.md files
+*.md
+
+# ignore ALL files in ANY directory named idea
+
+idea/
